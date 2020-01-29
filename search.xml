@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hexo-next</title>
+    <title>GitHub+Hexo+Next搭建个人博客</title>
     <url>/2020/01/07/GitHub+Hexo+Next%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<h1 id="GitHub-Hexo-Next搭建个人博客"><a href="#GitHub-Hexo-Next搭建个人博客" class="headerlink" title="GitHub+Hexo+Next搭建个人博客"></a>GitHub+Hexo+Next搭建个人博客</h1><hr>
 <p><strong>重要的定义</strong><br>配置文件的区分<br>1）站点配置文件，位于站点文件夹根目录内<br><code>~/blog/_config.yml</code><br>2）主题配置文件，位于主题文件夹根目录内<br><code>~/blog/themes/next/_config.yml</code></p>
 <hr>
-<p>f</p>
 ]]></content>
       <categories>
         <category>Hexo+next</category>

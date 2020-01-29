@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-29T06:57:41.103Z</updated>
+  <updated>2020-01-29T07:02:34.501Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo-next</title>
+    <title>GitHub+Hexo+Next搭建个人博客</title>
     <link href="http://yoursite.com/2020/01/07/GitHub+Hexo+Next%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2020/01/07/GitHub+Hexo+Next%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-01-07T14:59:32.000Z</published>
-    <updated>2020-01-29T06:57:41.103Z</updated>
+    <updated>2020-01-29T07:02:34.501Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="GitHub-Hexo-Next搭建个人博客"><a href="#GitHub-Hexo-Next搭建个人博客" class="headerlink" title="GitHub+Hexo+Next搭建个人博客"></a>GitHub+Hexo+Next搭建个人博客</h1><hr><p><strong>重要的定义</strong><br>配置文件的区分<br>1）站点配置文件，位于站点文件夹根目录内<br><code>~/blog/_config.yml</code><br>2）主题配置文件，位于主题文件夹根目录内<br><code>~/blog/themes/next/_config.yml</code></p><hr><p>f</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="GitHub-Hexo-Next搭建个人博客"><a href="#GitHub-Hexo-Next搭建个人博客" class="headerlink" title="GitHub+Hexo+Next搭建个人博客"></a>GitHub+Hexo+Next搭建个人博客</h1><hr><p><strong>重要的定义</strong><br>配置文件的区分<br>1）站点配置文件，位于站点文件夹根目录内<br><code>~/blog/_config.yml</code><br>2）主题配置文件，位于主题文件夹根目录内<br><code>~/blog/themes/next/_config.yml</code></p><hr>]]></content>
     
     <summary type="html">
     
